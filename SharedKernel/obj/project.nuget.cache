@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L2oxchIxT5SmYLuAahtMyIkzWEDUJ8sStwA27C4qI1VYguUJiG7Syplki3PB7uDUwbFdk+7TPZhh7lR/N4zATw==",
+  "success": true,
+  "projectFilePath": "D:\\Taller Web\\VentasMicroservicio\\SharedKernel\\SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MS\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\MS\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

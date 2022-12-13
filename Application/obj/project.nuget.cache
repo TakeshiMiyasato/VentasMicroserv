@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+LYw6MjB36M3yYMtnHHldRFTgWdmy0UMyugW7vaFrT8PMWUqmMa3qDdp0SemIuw/J+k8YR+aazHe6jjZ0uxjbQ==",
+  "success": true,
+  "projectFilePath": "D:\\Taller Web\\VentasMicroservicio\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MS\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\MS\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\MS\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\MS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
